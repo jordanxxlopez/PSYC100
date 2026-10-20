@@ -64,13 +64,17 @@
       "count": 10,
       "points_each": 1
     },
-    "fill_in_or_brief_answer": {
-      "count": 40,
+    "fill_in_the_blank": {
+      "count": 10,
+      "points_each": 1
+    },
+    "short_written_response": {
+      "count": 35,
       "points_each": 2
     },
-    "short_response_or_data_interpretation": {
-      "count": 15,
-      "points_each": 2
+    "extended_written_response_or_data_interpretation": {
+      "count": 10,
+      "points_each": 3
     }
   },
   "status": "Instructor-review design draft; administrative and university requirements remain to be confirmed."
