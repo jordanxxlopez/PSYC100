@@ -1,0 +1,142 @@
+{
+  "labs": [
+    {
+      "number": 1,
+      "week": 1,
+      "meeting_range": "Aug 23\u201327",
+      "report_due": "2027-09-05",
+      "title": "Reaction time and the speed\u2013accuracy trade-off",
+      "protocol": "Run randomized speed versus accuracy instructions in a simple choice-response task. Record accuracy and response time, inspect practice effects, and compare within-person conditions.",
+      "deliverable": "Guided 2\u20133-page report; raw data, one figure, and a conclusion."
+    },
+    {
+      "number": 2,
+      "week": 2,
+      "meeting_range": "Aug 30\u2013Sep 3",
+      "report_due": "2027-09-12",
+      "title": "Psychophysics: detection and response criterion",
+      "protocol": "Compare detection of low-contrast targets at several strengths. Separate sensitivity from willingness to report a target and explain false alarms.",
+      "deliverable": "Threshold/detection results with a labeled figure and a short report."
+    },
+    {
+      "number": 3,
+      "week": 3,
+      "meeting_range": "Sep 7\u201310",
+      "report_due": "2027-09-19",
+      "title": "Selective attention and Stroop interference",
+      "protocol": "Counterbalance congruent and incongruent trials. Analyze response-time and accuracy differences, language familiarity, and order effects.",
+      "deliverable": "3\u20134-page experimental report. Monday sections use an equivalent asynchronous task September 7\u201310."
+    },
+    {
+      "number": 4,
+      "week": 4,
+      "meeting_range": "Sep 13\u201317",
+      "report_due": "2027-09-26",
+      "title": "Learning and reversal of action\u2013outcome contingencies",
+      "protocol": "Use neutral stimuli and points in a browser task. Change reward contingencies, measure learning and reversal, and distinguish reinforcement from punishment.",
+      "deliverable": "3\u20134-page report with learning curves; no aversive stimuli or monetary stakes."
+    },
+    {
+      "number": 5,
+      "week": 5,
+      "meeting_range": "Sep 20\u201324",
+      "report_due": "2027-10-03",
+      "title": "Working-memory load and distraction",
+      "protocol": "Manipulate memory load and a neutral distractor. Counterbalance conditions and compare recall accuracy without treating scores as an intelligence test.",
+      "deliverable": "3\u20134-page report explaining load, interference, and design limitations."
+    },
+    {
+      "number": 6,
+      "week": 6,
+      "meeting_range": "Sep 27\u2013Oct 1",
+      "report_due": "2027-10-17",
+      "title": "Memory reconstruction and source monitoring",
+      "protocol": "Compare neutral word-list or source-memory conditions; distinguish a recognition error from a confident claim about a personal event. Debrief fully.",
+      "deliverable": "3\u20134-page report. Extended deadline avoids the Fall Recess weekend."
+    },
+    {
+      "number": 7,
+      "week": 8,
+      "meeting_range": "Oct 11\u201315",
+      "report_due": "2027-10-24",
+      "title": "Framing and risky decisions",
+      "protocol": "Randomize equivalent gain/loss frames using hypothetical choices. Compare choices while holding outcomes and probabilities constant.",
+      "deliverable": "3\u20134-page report separating a framing effect from different underlying options."
+    },
+    {
+      "number": 8,
+      "week": 9,
+      "meeting_range": "Oct 18\u201322",
+      "report_due": "2027-10-31",
+      "title": "Infant cognition through looking-time data",
+      "protocol": "Analyze an instructor-provided deidentified published looking-time dataset or approved research recordings. Compare conditions and consider alternative explanations.",
+      "deliverable": "3\u20134-page data report; no infant recruitment or collection of child data."
+    },
+    {
+      "number": 9,
+      "week": 10,
+      "meeting_range": "Oct 25\u201329",
+      "report_due": "2027-11-07",
+      "title": "Personality measurement and the role of situations",
+      "protocol": "Use a provided deidentified item-response dataset and structured behavioral vignettes. Examine reliability, score distributions, and changes across contexts.",
+      "deliverable": "3\u20134-page report; no required personal inventory or diagnostic interpretation."
+    },
+    {
+      "number": 10,
+      "week": 12,
+      "meeting_range": "Nov 8\u201312",
+      "report_due": "2027-11-21",
+      "title": "Cooperation, social norms, and group decisions",
+      "protocol": "Compare anonymous hypothetical contribution choices under transparent information conditions. Distinguish individual decisions from group averages.",
+      "deliverable": "3\u20134-page report. Thursday sections use an equivalent task November 8\u201310 or 12; no required work November 11."
+    }
+  ],
+  "methods_assignments": [
+    {
+      "number": 1,
+      "due": "2027-09-10",
+      "title": "From responses to evidence",
+      "task": "Clean a supplied reaction-time file; justify an exclusion rule, calculate condition summaries, and create an accurately labeled figure. Submit the editable analysis and a one-page interpretation."
+    },
+    {
+      "number": 2,
+      "due": "2027-10-01",
+      "title": "Design a fair psychological experiment",
+      "task": "Specify a question, variables, randomization or counterbalancing, comparison condition, ethical safeguards, and an analysis plan. Diagnose a confound in a supplied design. Submit two pages."
+    },
+    {
+      "number": 3,
+      "due": "2027-10-29",
+      "title": "Replication, uncertainty, and generalization",
+      "task": "Compare two supplied study summaries and datasets. Estimate and interpret a condition difference, examine uncertainty using a provided analysis template, and propose a justified follow-up. Submit the editable analysis and two pages."
+    }
+  ],
+  "laboratory_starts": "2027-08-23",
+  "notes": "Separate lab sections meet Tuesday\u2013Thursday in NEU LAB1A. Week 11 includes the individual experimental practical and mini-replication proposal support. No separate attendance or participation grade. No required lab meetings on university holidays.",
+  "experimental_practical": {
+    "week": 11,
+    "assessment_record": "assessments.json:lab.experimental_practical",
+    "options": [
+      {
+        "title": "Reaction time and the speed\u2013accuracy trade-off",
+        "skills": "Compare speed-focused and accuracy-focused instructions; summarize reaction times and errors and interpret the trade-off."
+      },
+      {
+        "title": "Psychophysics and signal detection",
+        "skills": "Distinguish signal and noise trials, classify hits and false alarms, and interpret sensitivity and response criterion using the methods taught in Lab 2."
+      },
+      {
+        "title": "Selective attention and Stroop interference",
+        "skills": "Compare congruent and incongruent trials; calculate interference and interpret reaction time alongside accuracy."
+      },
+      {
+        "title": "Working memory and distraction",
+        "skills": "Compare memory-load and distraction conditions; calculate accuracy and interpret the effects and limitations of the design."
+      },
+      {
+        "title": "Memory reconstruction and source monitoring",
+        "skills": "Follow the standardized memory procedure; distinguish recognition from source errors and interpret the findings."
+      }
+    ]
+  }
+}

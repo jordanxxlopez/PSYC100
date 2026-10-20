@@ -1,0 +1,77 @@
+{
+  "lecture_share": 0.5,
+  "lab_share": 0.5,
+  "minimum_component_percent": 60,
+  "lecture": {
+    "exams": {
+      "count": 4,
+      "points_each": 120,
+      "weight_each_percent": 20
+    },
+    "evidence_project": {
+      "points": 120,
+      "weight_percent": 20,
+      "proposal": "2027-09-24",
+      "checkpoint": "2027-10-22",
+      "final": "2027-11-19"
+    }
+  },
+  "lab": {
+    "reports": {
+      "offered": 10,
+      "counted": 8,
+      "weight_each_percent": 7.5,
+      "weight_total_percent": 60
+    },
+    "methods_assignments": {
+      "count": 3,
+      "weight_each_percent": 5,
+      "weight_total_percent": 15
+    },
+    "mini_replication": {
+      "weight_percent": 15,
+      "proposal": "2027-11-05",
+      "data_check": "2027-11-19",
+      "final": "2027-12-03"
+    },
+    "experimental_practical": {
+      "weight_percent": 10,
+      "week": 11,
+      "section_dates": [
+        "2027-11-02",
+        "2027-11-03",
+        "2027-11-04"
+      ],
+      "preparation_available": "2027-10-19",
+      "topic_selection_due": "2027-10-22",
+      "options": [
+        "Reaction time and the speed\u2013accuracy trade-off",
+        "Psychophysics and signal detection",
+        "Selective attention and Stroop interference",
+        "Working memory and distraction",
+        "Memory reconstruction and source monitoring"
+      ],
+      "rubric_percent": {
+        "experimental_design": 20,
+        "procedure": 20,
+        "analysis_and_figure": 35,
+        "interpretation": 25
+      }
+    }
+  },
+  "exam_format": {
+    "multiple_choice": {
+      "count": 10,
+      "points_each": 2
+    },
+    "fill_in_or_brief_answer": {
+      "count": 20,
+      "points_each": 2
+    },
+    "short_response_or_data_interpretation": {
+      "count": 10,
+      "points_each": 6
+    }
+  },
+  "status": "Instructor-review design draft; administrative and university requirements remain to be confirmed."
+}
