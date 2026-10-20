@@ -1,0 +1,42 @@
+lecture,date,topic,required_textbook_reading
+1,2027-08-23,"Perception, illusions, and the mind’s predictions","Ch. 1: The History and Scope of Psychology. Ch. 6: Basic Concepts of Sensation and Perception; Vision: Sensory and Perceptual Processing. Focus on perceptual organization, context, and illusions."
+2,2027-08-25,"Experiments, causality, and psychological evidence","Ch. 1: Research Strategies: How Psychologists Ask and Answer Questions; Statistical Reasoning in Everyday Life. Focus on experimental control, correlation, sampling, and interpreting evidence."
+3,2027-08-27,"Neurons, networks, and the biology of behavior",Ch. 2: Neural and Hormonal Systems; Tools of Discovery: Having Our Head Examined; Brain Regions and Structures.
+4,2027-08-30,"Brain damage, plasticity, and the divided mind",Ch. 2: Damage Responses and Brain Hemispheres. Review Brain Regions and Structures for the functions discussed in lecture.
+5,2027-09-01,"Genes, experience, and human differences",Ch. 4: Behavior Genetics: Predicting Individual Differences; Evolutionary Psychology: Explaining Human Nature and Nurture. Read the nature–nurture material in Cultural and Gender Diversity.
+6,2027-09-03,"Seeing, hearing, and detecting weak signals","Ch. 6: Basic Concepts of Sensation and Perception; Vision: Sensory and Perceptual Processing; Hearing, Skin, Chemical, and Body Senses. Focus on thresholds, signal detection, and sensory processing."
+7,2027-09-08,"Attention, distraction, and failures of awareness","Ch. 3: Basic Consciousness Concepts. Focus on selective attention, divided attention, inattentional blindness, and change blindness."
+8,2027-09-10,"Consciousness, unconscious processing, and agency",Ch. 3: Basic Consciousness Concepts. Focus on conscious and unconscious processing and the two-track mind; review the attention material from Lecture 7.
+9,2027-09-13,"Sleep, dreaming, and biological clocks",Ch. 3: Sleep and Dreams.
+10,2027-09-15,"Drugs, reward, and addiction","Ch. 3: Drugs and Consciousness. Focus on psychoactive drugs, tolerance, dependence, and addiction."
+11,2027-09-17,Classical conditioning: learning predictive relationships,Ch. 7: Basic Learning Concepts and Classical Conditioning.
+12,2027-09-20,Operant conditioning: actions and consequences,Ch. 7: Operant Conditioning.
+13,2027-09-22,Observational learning and cultural transmission,"Ch. 7: Biology, Cognition, and Learning. Focus on observational learning and the biological and cognitive constraints on learning. Review Ch. 4’s cultural influences on behavior."
+14,2027-09-24,"Working memory, amnesia, and memory systems","Ch. 8: Studying and Encoding Memories; Storing and Retrieving Memories. Focus on working memory, explicit and implicit memory, and amnesia."
+15,2027-09-27,False memories and eyewitness identification,"Ch. 8: Forgetting, Memory Construction, and Improving Memory. Focus on misinformation, source errors, and eyewitness memory."
+16,2027-09-29,"Retrieval, forgetting, and durable learning","Ch. 8: Storing and Retrieving Memories; Forgetting, Memory Construction, and Improving Memory. Focus on retrieval cues, forgetting, retrieval practice, and effective study strategies."
+17,2027-10-01,"Language: acquisition, comprehension, and the brain",Ch. 9: Language and Thought.
+18,2027-10-04,"Judgment, risk, and decision-making","Ch. 9: Thinking. Focus on concepts, problem solving, heuristics, biases, judgment, and decision-making."
+19,2027-10-06,"Intelligence: measurement, development, and fairness",Ch. 10: What Is Intelligence?; Intelligence Assessment and Dynamics; Genetic and Environmental Influences on Intelligence.
+20,2027-10-11,"Motivation: hunger, goals, and self-control","Ch. 11: Basic Motivational Concepts; Hunger; Affiliation and Achievement. Focus on motivational theories, physiological regulation, goals, and achievement."
+21,2027-10-13,"Emotion: bodily responses, appraisal, and regulation",Ch. 12: Introduction to Emotion; Expressing Emotion; Experiencing Emotion.
+22,2027-10-15,"Stress, health, and the social environment",Ch. 12: Stress and Illness; Health and Coping.
+23,2027-10-18,Infant cognition and the developing mind,"Ch. 5: Developmental Issues, Prenatal Development, and the Newborn; Infancy and Childhood. Focus on developmental research methods and infant perceptual and cognitive development."
+24,2027-10-20,"Attachment, caregiving, and social development","Ch. 5: Infancy and Childhood. Focus on attachment, caregiving, temperament, and social development."
+25,2027-10-22,"Adolescence: identity, peers, and risk",Ch. 5: Adolescence and Emerging Adulthood.
+26,2027-10-25,"Adulthood, aging, and cognitive change",Ch. 5: Adulthood.
+27,2027-10-27,"Personality: traits, situations, and the self",Ch. 14: Introduction to Personality and Psychodynamic Theories; Humanistic Theories and Trait Theories; Social-Cognitive Theories and the Self.
+28,2027-10-29,"Sex, gender, and sexual behavior",Ch. 4: Cultural and Gender Diversity: Understanding Nature and Nurture. Ch. 11: Sexual Motivation.
+29,2027-11-01,"Social perception, attribution, and first impressions","Ch. 13: Social Thinking. Focus on attribution, attitudes, and interpretations of other people’s behavior."
+30,2027-11-03,"Conformity, obedience, and social power","Ch. 13: Social Influence. Focus on conformity, obedience, group processes, and the power of situations."
+31,2027-11-05,"Prejudice, discrimination, and intergroup behavior","Ch. 13: Antisocial Relations. Focus on prejudice, discrimination, aggression, and intergroup conflict."
+32,2027-11-08,"Cooperation, helping, and collective action","Ch. 13: Prosocial Relations. Focus on altruism, cooperation, conflict, and peacemaking. Review group processes in Social Influence."
+33,2027-11-10,"Relationships, belonging, and loneliness","Ch. 11: Affiliation and Achievement, focusing on belongingness. Ch. 13: Prosocial Relations, focusing on attraction and close relationships."
+34,2027-11-12,"Culture, work, and behavior in organizations","Ch. 4: Cultural and Gender Diversity: Understanding Nature and Nurture. Review Ch. 11: Affiliation and Achievement, focusing on achievement; and Ch. 13: Social Influence, focusing on group behavior. These sections provide the foundations for the lecture’s applications to work and organizations."
+35,2027-11-15,"Psychological disorders, assessment, and neurodevelopment","Ch. 15: Introduction to Psychological Disorders; Neurodevelopmental Disorders. Focus on classification, assessment, explanatory models, and developmental context."
+36,2027-11-17,"Anxiety, trauma, and obsessive-compulsive disorders","Ch. 15: Anxiety Disorders, Obsessive Compulsive and Related Disorders, Trauma- and Stressor-Related Disorders, and Somatic Symptom and Related Disorders."
+37,2027-11-19,Mood disorders: depression and bipolar disorder,Ch. 15: Depressive Disorders and Bipolar Disorders.
+38,2027-11-22,Schizophrenia and psychosis,Ch. 15: Schizophrenia.
+39,2027-11-29,"Dissociative, personality, and eating disorders","Ch. 15: Dissociative, Personality, and Eating Disorders."
+40,2027-12-01,"Treatments: psychotherapy, medication, and prevention",Ch. 16: Introduction to Therapy and the Psychological Therapies; Evaluating Psychotherapies; The Biomedical Therapies and Preventing Psychological Disorders.
+41,2027-12-03,"Psychology in the digital world: persuasion, misinformation, and AI","Review Ch. 9: Thinking, focusing on judgment and belief; Ch. 13: Social Thinking and Social Influence, focusing on attitudes and persuasion; and Ch. 1: Research Strategies: How Psychologists Ask and Answer Questions. These sections provide the foundations for the lecture’s applications to digital media, misinformation, and AI."
