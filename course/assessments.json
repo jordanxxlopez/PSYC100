@@ -62,15 +62,15 @@
   "exam_format": {
     "multiple_choice": {
       "count": 10,
-      "points_each": 2
+      "points_each": 1
     },
     "fill_in_or_brief_answer": {
-      "count": 20,
+      "count": 40,
       "points_each": 2
     },
     "short_response_or_data_interpretation": {
-      "count": 10,
-      "points_each": 6
+      "count": 15,
+      "points_each": 2
     }
   },
   "status": "Instructor-review design draft; administrative and university requirements remain to be confirmed."
